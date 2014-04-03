@@ -1,8 +1,8 @@
 {
   "name": "express-pjax-redirect",
   "description": "Express middleware for Pjax with redirect",
-  "version": "0.0.1",
-  "homepage": "http://github.com/dakatsuka/express-pjax",
+  "version": "0.0.2",
+  "homepage": "https://github.com/ale316/express-pjax-redirect",
   "repository": {
     "type": "git",
     "url": "git@github.com:ale316/express-pjax-redirect.git"
@@ -23,11 +23,11 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/dakatsuka/express-pjax/raw/master/MIT-LICENSE"
+      "url": "https://raw.githubusercontent.com/ale316/express-pjax-redirect/master/LICENSE"
     }
   ],
   "main": "./pjax.js",
   "readmeFilename": "README.md",
-  "_id": "express-pjax-redirect@0.0.1",
-  "_from": "express-pjax-redirect@0.0.1"
+  "_id": "express-pjax-redirect@0.0.2",
+  "_from": "express-pjax-redirect@0.0.2"
 }
